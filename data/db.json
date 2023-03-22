@@ -12,13 +12,13 @@
     },
     {
       "firstName": "Jphn",
-      "lastName": "Smith",
+      "lastName": "Smith updated",
       "organization": "bsabab",
       "role": "AccountManager",
       "email": "as@sda.ds",
       "phone": "+1 (141) 888-1717",
-      "id": 3,
-      "selected": false
+      "selected": false,
+      "id": 3
     },
     {
       "firstName": "Jane",
