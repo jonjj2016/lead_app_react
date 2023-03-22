@@ -1,10 +1,10 @@
 export enum Roles {
-  Ceo = 'Ceo',
+  CEO = 'CEO',
   Manager = 'Manager',
-  AccountManager = 'Account Manager',
+  'Account Manager' = 'Account Manager',
   Owner = 'Owner',
   Operations = 'Operations',
-  BoardMember = 'Board Member',
+  'Board Member' = 'Board Member',
 }
 
 export enum LeadCardActions {

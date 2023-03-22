@@ -11,16 +11,6 @@
       "id": 1
     },
     {
-      "firstName": "Jphn",
-      "lastName": "Smith updated",
-      "organization": "bsabab",
-      "role": "AccountManager",
-      "email": "as@sda.ds",
-      "phone": "+1 (141) 888-1717",
-      "selected": false,
-      "id": 3
-    },
-    {
       "firstName": "Jane",
       "lastName": "Doe",
       "organization": "Google",
